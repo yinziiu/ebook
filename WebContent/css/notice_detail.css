@@ -1,0 +1,125 @@
+@CHARSET "UTF-8";
+
+*{padding: 0px; margin: 0px}
+
+#gonggao{
+	width: 800px;
+	height: 50px;
+}
+#gonggao h3{
+	float: left;
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 5px;
+	font-size: 25px;
+}
+#gonggao p{
+	font-size: 13px;
+	float: left;
+	padding-top: 33px;
+	padding-left: 550px;
+}
+#gonggao p a:link, #gonggao p a:visited{
+   color: #000000;
+   text-decoration: none;
+}
+
+#fengexian1{
+	width: 790px;
+	height: 2px;
+	margin: 0px 0px 0px 5px;
+	background-color: #943200;
+}
+
+#left_de{
+	float: left;
+  	width: 600px;
+  	padding: 50px 0px 0px 0px;
+}
+
+#title{
+	width: 600px;
+	height: 50px;
+}
+
+#title h3{
+	float: left;
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 10px;
+	font-size: 20px;
+	color: green;
+}
+
+#neirong{
+	padding: 20px 60px 50px 10px;
+	font-size: 15px;
+	text-align: left;
+	line-height: 30px;
+	font-family: 宋体；
+	
+}
+
+#fengexian{
+	width: 550px;
+	height: 2px;
+	margin: 80px 0px 0px 0px;
+	background-color: gray;	
+}
+
+#right{
+	float: left;
+  	width: 300px;
+  	padding: 30px 0px 0px 0px;
+}
+
+#newnotice{
+	width: 300px;
+	text-align: left;
+	padding-top: 60px;
+}
+#newnotice h3{
+	color: #943200;
+	width: 180px;
+	height: 30px;
+	padding: 20px 0px 0px 20px;
+	/* background: url("images/xiaobeijing.png") no-repeat; */
+}
+#newnotice ul{
+    list-style-type: none;
+    padding: 0px 0px 10px 5px;
+    margin: 16px 10px 0px 10px;
+}
+#newnotice ul li{
+    padding: 5px 0px 4px 8px;
+    line-height: 30px;
+    font-size: 15px;
+}
+#newnotice ul li a:link, #newnotice ul li a:visited{
+   color: #ff7100;
+    text-decoration: none;
+}
+#newnotice ul li a:hover{
+    color: #943200;
+    text-decoration: underline;
+}
+
+
+#sousuo{
+	width: 300px;
+	height: 400px;
+	text-align: left;
+	color:#ff7100;
+}
+#sousuo h3{
+	color: #943200;
+	padding: 20px 0px 0px 20px;
+}
+#select{
+	padding: 25px 0px 0px 20px;
+}
+
+
+
+
+
